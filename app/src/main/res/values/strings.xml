@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">W2d2-ex02</string>
+    <string name="lbl_hint_name">Name</string>
+    <string name="lbl_hint_lastname">Lastname</string>
+    <string name="lbl_btn_Save">Save</string>
+    <string name="lbl_btn_Read_Name">Read Name</string>
+    <string name="lbl_btn_read_lastname">Read Lastname</string>
+    <string name="lbl_btn_update">Update</string>
+</resources>
